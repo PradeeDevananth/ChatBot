@@ -1,2 +1,2 @@
 # ChatBot
-![BotFrameworkDiagram](./images/BotFrameworkDiagram)
+![BotFrameworkDiagram](./images/BotFrameworkDiagram.png)
